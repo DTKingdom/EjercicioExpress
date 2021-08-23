@@ -1,0 +1,16 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "ejercicio",
+  "main": "Principal.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./Principal.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan",
+  "license": "ISC"
+}
